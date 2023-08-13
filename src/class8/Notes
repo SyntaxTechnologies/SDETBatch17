@@ -26,3 +26,12 @@ Syntax:
 Limitations of Enhanced For Loop:
     1) Enhanced for loop can't be used for updating the elements.
     2) Access the elements in the reverse order etc.
+break:
+    break keyword is used in switch cases statements and with the loops
+    to terminate the loops prematurely.
+Why we should use break keyword:
+     using break keyword can help save a lot of processing time and our code can
+     execute faster.
+continue:
+    Continue keyword is used to skip the code from a loop once we hit the skip keyword
+    java ignores the rest of the code in the loop and jumps to the next iteration.
