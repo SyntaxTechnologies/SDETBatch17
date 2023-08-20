@@ -9,7 +9,7 @@ public class Student {
     void study(){
         System.out.println("Studying 16 hours a day........");
     }
-
+// Break till 11:52
     public static void main(String[] args) {
         // we are creating an actual student by using the Student class
         Student ehabObj=new Student();
