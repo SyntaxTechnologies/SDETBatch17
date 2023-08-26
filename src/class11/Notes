@@ -13,7 +13,14 @@ Why we should learn about this class.
     2) Most widely used class in all java.
     3) Most of the information in real life is present in the form of Strings.
 
-
+Method Chaining:
+    when multiple methods are being called on the same line its called method chaining.
+    String class supports methods changing. for method changing to work previous method must
+    return the the expected datatype for the next method.
+    Example
+     String str="   Batch 17 IS GREAT.    ";
+            System.out.println(str.toLowerCase().trim().replace("great","Good"));
+          //  System.out.println(str.toLowerCase().isEmpty().replace("great","Good"));
 
 Note:
  Very important for coding questions.
