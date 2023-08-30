@@ -1,0 +1,70 @@
+Types of variables:
+    There are three types of variables. local, instance and static.
+local variables:
+    local variables are the variables which are created.declared inside a
+    block of code. like if else conditions,loop, switch statements, methods are
+    block of code.
+Upside:
+    They occupy the memory for shortest period of time. As soon as java is done
+    executing that block of code they are removed from the memory.
+    The code that we write using local variables is very easy to debug.
+
+downside:
+    They can only be accessed within the block of code they are created.
+
+Instance variables:
+    Instance variables are the variables which are created outside of the
+    blocks( if else,switch,loops or methods etc.)of
+    code but inside a class.
+Upside:
+    They can be accessed any where within the that class.
+Downside:
+    They are created when an object of the class is created and they will stay in
+    the memory as long as that object is in the memory weather you use the or not.
+Local vs instance:
+    Whenever it is possible go and create local variables. only go with instance
+    variables when you can't solve a problem with local variables.
+
+static variables:
+    Static variables are created inside a class but outside of a block of code with
+    a static keyword.
+UpSide:
+    They are universal when it comes to scope and accessibility. We don't
+    even need to create the object of that class in which they are created
+    we can simply write the name of the class and we can access it.
+
+Downside:
+    Static variables occupy the memory for longest of all.
+    They are created even though you don't create any object of that
+    class.
+
+Uses of types of local variables:
+    Local:
+        When ever we are solving any problem many times we need local variables
+        to temporally store data. In all of those cases you should be going with local
+        variables.
+
+
+
+Note:
+    we will do a little bit of StringBuilder
+    we will discuss Thread safety StringBuilder vs StringBuffer
+    one example for methods as well
+    Project 1
+    show example of objects and methods using selenium.
+    share Tic tac toe
+
+// Break till 8:53
+
+
+
+
+
+
+
+
+
+
+
+
+
