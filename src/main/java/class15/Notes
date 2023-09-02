@@ -1,0 +1,19 @@
+Constructors:
+    Constructor help us build objects from classes easily. They help us give initial values to
+    the instance fields. The name of the constructor must be same as the class name.
+    Constructors don't have any return types. Most of the times constructors are public.
+    Other than initializing the values we can have whatever type of code inside the constructor that
+    we like for example calling methods writing if-else etc.
+
+Class ClassName{
+String name;
+
+public ClassName(){
+
+}
+
+public ClassName(String myName){
+name=myName;
+}
+
+}
