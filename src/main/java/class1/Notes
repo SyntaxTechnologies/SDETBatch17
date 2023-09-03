@@ -1,0 +1,49 @@
+What is Project in intellij?
+    A project in intellij is simply a folder where we will
+    be storing our files. This folder has some other folders inside it like
+    src folder.
+Steps to create a package:
+1) Right click on the src folder
+2) click on new
+3) package
+4) give a name to the package
+
+Steps to create java files:
+1)Right click on package name
+2) click on new
+3) new java class
+4) give name to our java class.
+
+what is a class:
+    A class in java is where we write our code. if we want to execute the code
+    and want to see the output we must have a main method as well.
+main method:
+    main method is the starting point. This is from where java starts the
+    execution of your program.
+shortcuts:
+main-> Creates the main  method
+main hit enter button->  public static void main(String[] args) {
+
+
+    }
+sout->System.out.println();
+Rename-> right click-> refactor->rename
+=============================
+go to "bestbuy" store
+and buy me an "Apple"
+Note:
+Whenever we have to print the value of a variable we should
+not be using ""
+
+
+
+
+
+
+
+
+
+
+
+
+

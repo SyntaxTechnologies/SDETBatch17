@@ -1,0 +1,43 @@
+Methods/Functions/Behaviours/routines
+    methods are blocks of code that contains pre-written code that is executed.
+    when we call a methods.
+There are two main types of methods:
+    1) Methods which do not return any data(void type)
+    2) Methods which can return data like int double char etc.
+Syntax:
+datatype methodName (dataType nameOfParameter,dataType nameofOtherParam){
+this is where we write the logic
+
+return the results if method type is not void
+
+}
+
+int add(int num1,int num2){
+        int result=num1+num2;
+
+        return result;
+    }
+
+int=> return type of method
+add=>name of the method
+(int num1,int num2) => parameters
+    {              => Body of the method
+        int result=num1+num2;
+
+        return result;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+Note:
+    WE will go over StringBuilder vs String
+    We will go over some of the homeworks as well

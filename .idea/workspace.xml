@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb0d6fca-ba00-41f7-98be-2432e7aa6996" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class1/E1FirstJavaProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class1/E2PrintMyName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class1/E3Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class1/E4DataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class1/E5DataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class1/E6DataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class1/E7Facebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class1/E8Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class1/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class1/TheProgrammer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class10/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class10/CarTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class10/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class10/DogTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class10/E10StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class10/E11StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class10/E1StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class10/E2StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class10/E3StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class10/E4StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class10/E5StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class10/E6StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class10/E7StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class10/E8StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class10/E9StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class10/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class10/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class10/PhoneTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class10/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class10/T1Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class11/E10StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class11/E11StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class11/E1StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class11/E2StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class11/E3StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class11/E4StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class11/E5MethodChaining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class11/E5StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class11/E6StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class11/E7StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class11/E8StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class11/E9StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class11/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class11/T1StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class11/T2StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class11/T3StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class12/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class12/E1Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class12/E2CalculatorTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class12/E2Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class12/E2MethodsTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class12/E3StringVsStringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class12/E4StringVsStringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class12/E5Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class12/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class12/T1Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class12/T1Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class12/T2Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class12/T2MethodsTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class13/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class13/DogTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class13/E1LocalVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class13/E2InstanceVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class13/E2InstanceVariablesTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class13/E3LocalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class13/E3Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class13/E4StringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class13/MathConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class13/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class13/OtherClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class13/SyntaxEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class14/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class14/BankTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class14/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class14/T1ReverseWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class14/T2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class14/T3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class14/T4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class15/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class15/CarTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class15/ConTesterTesterDifferentPkg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class15/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class15/DogTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class15/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class15/Repl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class15/SeleniumDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class15/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class15/StudentTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class15/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class15/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class16/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class16/CatTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class16/ConTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class16/ConTesterTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class16/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class16/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class16/PersonTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class2/E10ShorthandOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class2/E11ShorthandOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class2/E12ShorthandOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class2/E13ShorthandOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class2/E14ShorthandOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class2/E1Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class2/E2StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class2/E3StringConCatDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class2/E4StringConcat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class2/E5ArithmeticOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class2/E6ArithmeticOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class2/E7ArithmeticOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class2/E8ArithmeticOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class2/E8StringConcat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class2/E9ArithmeticOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class2/E9StringConcat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class2/T1PracticeVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class2/T2VariableValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class2/T3Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class2/T4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class2/T5Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class3/E10ElseIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class3/E1TypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class3/E2TypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class3/E3TypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class3/E4RelationalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class3/E5RelationalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class3/E6IfElseStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class3/E7IfElseStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class3/E8IfElseStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class3/E9ElseIfStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class3/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class3/T1DoubleComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class3/T2TemperatureCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class3/T3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class3/T4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class4/Debugger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class4/E1IfElseStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class4/E2NestedIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class4/E3NestedIfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class4/E4Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class4/E5Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class4/E6Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class4/E7Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class4/E8Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class4/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class4/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class4/T2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class5/E10Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class5/E11Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class5/E1NotOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class5/E2NotOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class5/E3NotOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class5/E4OROperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class5/E5OROperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class5/E6OROperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class5/E7ANDOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class5/E8ANDOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class5/E9ANDOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class5/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class5/T1OROperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class5/T2ANDOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class5/T3ANDOROperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class5/T4LogicalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class5/T5Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class6/E10WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class6/E11DoWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class6/E12DoWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class6/E13DoWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class6/E14ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class6/E1IncrementOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class6/E2IncrementOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class6/E3WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class6/E4WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class6/E5WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class6/E6WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class6/E7WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class6/E8WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class6/E9WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class6/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class6/T10ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class6/T11ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class6/T1WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class6/T2WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class6/T3WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class6/T4WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class6/T5WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class6/T6WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class6/T7DoWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class6/T8ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class6/T9ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class7/E10Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class7/E11Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class7/E1NestedLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class7/E2NestedLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class7/E3NestedLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class7/E4NestedLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class7/E5NestedLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class7/E6NestedLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class7/E7Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class7/E8Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class7/E9Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class7/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class7/T1NestedLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class7/T2NestedLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class7/T3NestedLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class7/T4NestedLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class7/T5NestedLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class7/T6Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class7/T7Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class7/T8Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class8/E10ContinueKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class8/E1Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class8/E2Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class8/E3EnhancedLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class8/E4EnhancedLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class8/E5EnhancedLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class8/E6EnhancedLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class8/E7BreakKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class8/E8BreakKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class8/E9BreakKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class8/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class8/T1Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class8/T2Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class8/T3Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class8/T4EnhancedLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class8/T5EnhancedLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class8/T6EnhancedLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class8/T7EnhancedLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class9/E12DArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class9/E22DArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class9/E32DArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class9/E42DArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class9/E52DArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class9/E62DArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class9/E72DArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class9/E82DArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class9/E92DArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class9/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class9/T12DArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class9/T22DArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class9/T32DArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class9/T42DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review1/E1Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review1/E2Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review1/E3Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review1/E4ShortHandOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review1/E5ShortHandOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review1/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review1/T1Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review2/E1TypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review2/E2IfStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review2/E3IfElseStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review2/E4IfElseScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review2/E5IfElseScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review2/E6IfIFDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review2/E7CommonScannerIssues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review2/E7NestedIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review2/E8CommonScannerIssues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review2/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review3/E1LogicalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review3/E2LogicalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review3/E3Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review3/E4Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review3/E5Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review3/E6WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review3/E7DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review3/E8ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review3/E9ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review3/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review3/T1LogicalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review3/T2WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review4/E1NestedLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review4/E2NestedLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review4/E3NestedLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review4/E4NestedLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review4/E5NestedLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review4/E6Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review4/E7Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review4/E8Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review4/E9Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review4/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review4/Repl67.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review5/AnotherReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review5/ArrayReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review5/LoopsRecap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review5/TwoDArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review5/TwoDArrayExample.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2UtHniYrRuV2TTKI9UD1YAyqasA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Syntax/IdeaProjects/JavaSdetBatch17"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Syntax\IdeaProjects\JavaSdetBatch17" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ConTester">
+    <configuration name="CarTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class15.CarTester" />
+      <module name="JavaSdetBatch17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CatTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class16.CatTester" />
+      <module name="JavaSdetBatch17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class16.ConTester" />
+      <module name="JavaSdetBatch17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class16.PersonTester" />
+      <module name="JavaSdetBatch17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConTester" />
+        <item itemvalue="Application.CatTester" />
+        <item itemvalue="Application.PersonTester" />
+        <item itemvalue="Application.CarTester" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb0d6fca-ba00-41f7-98be-2432e7aa6996" name="Changes" comment="" />
+      <created>1693752126096</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693752126096</updated>
+    </task>
+    <servers />
+  </component>
+</project>

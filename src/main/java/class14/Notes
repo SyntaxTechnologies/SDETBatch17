@@ -1,0 +1,12 @@
+Access modifiers:
+    Access modifiers are keywords in java that help us control
+    the access of instance and static variables they can also be used
+    to control the access of methods and classes. There are four access levels
+    and there are three keywords in java to apply these access levels.
+    private protected default public
+Best Practices:
+    Instance variables/fields/properties/attributes are
+    private 99% of the time.
+    99% of the times constructors are public
+    90% of the times methods are public 8% private and rest
+    of the time they are default or protected.
