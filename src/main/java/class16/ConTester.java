@@ -13,7 +13,7 @@ public class ConTester {
         System.out.println("Private");
     }
 
-     ConTester(String name){
+    ConTester(String name){
         System.out.println("Default");
     }
 
@@ -31,6 +31,7 @@ public class ConTester {
         new ConTester("dnfdkj");
         new ConTester(1512);
         new ConTester(10.52155);
+
 
     }
 }
