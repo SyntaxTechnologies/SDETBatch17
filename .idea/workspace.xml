@@ -5,14 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb0d6fca-ba00-41f7-98be-2432e7aa6996" name="Changes" comment="class 16">
-      <change afterPath="$PROJECT_DIR$/src/main/java/class16/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class16/StudentTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review6/E1StringMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review6/E2StringMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review6/E3StringMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review6/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class17/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class17/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class17/AnimalTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class17/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class17/CatDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class17/Dee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class17/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class17/MultiLevelTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class17/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class17/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class17/X.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/class16/ConTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/class16/ConTester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,26 +60,13 @@
       <recent name="review6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.E2StringMethods">
-    <configuration name="ConTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class16.ConTester" />
+  <component name="RunManager" selected="Application.TeacherTester">
+    <configuration name="AnimalTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class17.AnimalTester" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class16.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="E1StringMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="review6.E1StringMethods" />
-      <module name="JavaSdetBatch17" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="review6.*" />
+          <option name="PATTERN" value="class17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +100,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class16.StudentTester" />
+    <configuration name="Eff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class17.Eff" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class16.*" />
+          <option name="PATTERN" value="class17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeacherTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class17.TeacherTester" />
+      <module name="JavaSdetBatch17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TeacherTester" />
+        <item itemvalue="Application.Eff" />
+        <item itemvalue="Application.AnimalTester" />
         <item itemvalue="Application.E2StringMethods" />
         <item itemvalue="Application.E3StringMethods" />
-        <item itemvalue="Application.E1StringMethods" />
-        <item itemvalue="Application.StudentTester" />
-        <item itemvalue="Application.ConTester" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693759248653</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="class 16">
+      <option name="closed" value="true" />
+      <created>1693767781090</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693767781090</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
