@@ -4,18 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb0d6fca-ba00-41f7-98be-2432e7aa6996" name="Changes" comment="class 16">
-      <change afterPath="$PROJECT_DIR$/src/main/java/class17/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class17/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class17/AnimalTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class17/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class17/CatDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class17/Dee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class17/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class17/MultiLevelTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class17/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class17/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class17/X.java" afterDir="false" />
+    <list default="true" id="fb0d6fca-ba00-41f7-98be-2432e7aa6996" name="Changes" comment="class 17">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class17/HondaBike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class18/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class18/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class18/CarTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class18/Furniture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class18/GrandParent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class18/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class18/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class18/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,13 +59,13 @@
       <recent name="review6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TeacherTester">
-    <configuration name="AnimalTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class17.AnimalTester" />
+  <component name="RunManager" selected="Application.test">
+    <configuration name="FurnitureTester (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class18.FurnitureTester" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class17.*" />
+          <option name="PATTERN" value="class18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E2StringMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="review6.E2StringMethods" />
+    <configuration name="FurnitureTester (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class18.FurnitureTester" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="review6.*" />
+          <option name="PATTERN" value="class18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E3StringMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="review6.E3StringMethods" />
+    <configuration name="FurnitureTester (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class18.FurnitureTester" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="review6.*" />
+          <option name="PATTERN" value="class18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Eff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class17.Eff" />
+    <configuration name="FurnitureTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class18.FurnitureTester" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class17.*" />
+          <option name="PATTERN" value="class18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +112,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TeacherTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class17.TeacherTester" />
+    <configuration name="FurnitureTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class18.FurnitureTester" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class17.*" />
+          <option name="PATTERN" value="class18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FurnitureTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class18.FurnitureTester" />
+      <module name="JavaSdetBatch17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class18.UserTester" />
+      <module name="JavaSdetBatch17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class18.test" />
+      <module name="JavaSdetBatch17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TeacherTester" />
-        <item itemvalue="Application.Eff" />
-        <item itemvalue="Application.AnimalTester" />
-        <item itemvalue="Application.E2StringMethods" />
-        <item itemvalue="Application.E3StringMethods" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.UserTester" />
+        <item itemvalue="Application.FurnitureTester (4)" />
+        <item itemvalue="Application.FurnitureTester (3)" />
+        <item itemvalue="Application.FurnitureTester (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +199,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693767781090</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="class 17">
+      <option name="closed" value="true" />
+      <created>1693966234188</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1693966234188</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,6 +223,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="class 16" />
-    <option name="LAST_COMMIT_MESSAGE" value="class 16" />
+    <MESSAGE value="class 17" />
+    <option name="LAST_COMMIT_MESSAGE" value="class 17" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/class18/Furniture.java</url>
+          <line>10</line>
+          <properties field="color" class="class18.Chair" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -1,0 +1,20 @@
+Super Keyword:
+        Super keyword is used to access things from the parent class.
+        We can access instance variables, Methods and Constructors.
+Why should we learn about Super:
+    1)Without Super() we can't call the constructor from the parent class and we might
+    have to repeat that constructor in all of the class and if someone declare the
+    fileds private we will not be able to even access the fields in child classes.
+    2) We can use super to call the fileds from the parent class if we have same
+    name fields in the child class.
+Rules:
+    1)when we use super() we must call at least one constructor from the parent class.
+    because java needs at least one constructor from parent as it always first
+    creates the object of the parent class when we create the object of the child
+    class.
+    2) When we have same name field as local instance and in the parent class as well.
+    Java prefers the local first then the instance of the same class then the instance
+    of the parent class. However if we directly want to access the field from the
+    parent we can use super keyword.
+===============================================================================
+
