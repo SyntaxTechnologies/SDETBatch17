@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb0d6fca-ba00-41f7-98be-2432e7aa6996" name="Changes" comment="class 17">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class17/HondaBike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class18/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class18/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class18/CarTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class18/Furniture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class18/GrandParent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class18/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class18/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class18/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review7/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review7/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review7/StringOverview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review7/Superheroes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +30,9 @@
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="fea1c53d-e660-48a2-96ce-49fb68b78ac3" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2UtHniYrRuV2TTKI9UD1YAyqasA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,7 +46,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Syntax/IdeaProjects/JavaSdetBatch17&quot;
+    &quot;last_opened_file_path&quot;: &quot;/Users/syntax/IdeaProjects/Batch17/SDETBatch17&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -59,39 +57,13 @@
       <recent name="review6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test">
-    <configuration name="FurnitureTester (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class18.FurnitureTester" />
-      <module name="JavaSdetBatch17" />
+  <component name="RunManager" selected="Application.Superheroes">
+    <configuration name="Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review6.Book" />
+      <module name="JavaSDETBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class18.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FurnitureTester (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class18.FurnitureTester" />
-      <module name="JavaSdetBatch17" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class18.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FurnitureTester (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class18.FurnitureTester" />
-      <module name="JavaSdetBatch17" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class18.*" />
+          <option name="PATTERN" value="review6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FurnitureTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class18.FurnitureTester" />
-      <module name="JavaSdetBatch17" />
+    <configuration name="Store" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review7.Store" />
+      <module name="JavaSDETBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class18.*" />
+          <option name="PATTERN" value="review7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class18.UserTester" />
-      <module name="JavaSdetBatch17" />
+    <configuration name="StringOverview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review7.StringOverview" />
+      <module name="JavaSDETBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class18.*" />
+          <option name="PATTERN" value="review7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,12 +123,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class18.test" />
-      <module name="JavaSdetBatch17" />
+    <configuration name="Superheroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review7.Superheroes" />
+      <module name="JavaSDETBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class18.*" />
+          <option name="PATTERN" value="review7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoDArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review5.TwoDArray" />
+      <module name="JavaSDETBatch17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="review5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.UserTester" />
-        <item itemvalue="Application.FurnitureTester (4)" />
-        <item itemvalue="Application.FurnitureTester (3)" />
-        <item itemvalue="Application.FurnitureTester (2)" />
+        <item itemvalue="Application.Superheroes" />
+        <item itemvalue="Application.Store" />
+        <item itemvalue="Application.StringOverview" />
+        <item itemvalue="Application.Book" />
+        <item itemvalue="Application.TwoDArray" />
       </list>
     </recent_temporary>
   </component>
@@ -234,6 +219,11 @@
           <line>10</line>
           <properties field="color" class="class18.Chair" />
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/review7/Superheroes.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
