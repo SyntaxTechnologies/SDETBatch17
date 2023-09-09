@@ -4,19 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb0d6fca-ba00-41f7-98be-2432e7aa6996" name="Changes" comment="class 17">
-      <change afterPath="$PROJECT_DIR$/src/main/java/class19/Ali.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class19/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class19/AnimalTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class19/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class19/CalculatorTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class19/Note" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class19/Programming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class19/T1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class19/T1Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class19/T2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="fb0d6fca-ba00-41f7-98be-2432e7aa6996" name="Changes" comment="class 19">
+      <change afterPath="$PROJECT_DIR$/src/main/java/class19/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class19/CreditCardTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class19/Degree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/class19/AnimalTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/class19/AnimalTester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +53,7 @@
       <recent name="review6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AnimalTester">
+  <component name="RunManager" selected="Application.CreditCardTester">
     <configuration name="AnimalTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class19.AnimalTester" />
       <module name="JavaSdetBatch17" />
@@ -74,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class19.CalculatorTester" />
+    <configuration name="CreditCardTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class19.CreditCardTester" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
@@ -154,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CreditCardTester" />
         <item itemvalue="Application.AnimalTester" />
         <item itemvalue="Application.T2" />
         <item itemvalue="Application.Programming" />
         <item itemvalue="Application.T1Tester" />
-        <item itemvalue="Application.CalculatorTester" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +188,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693966234188</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="class 19">
+      <option name="closed" value="true" />
+      <created>1694280669909</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694280669909</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,7 +213,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="class 16" />
     <MESSAGE value="class 17" />
-    <option name="LAST_COMMIT_MESSAGE" value="class 17" />
+    <MESSAGE value="class 19" />
+    <option name="LAST_COMMIT_MESSAGE" value="class 19" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
