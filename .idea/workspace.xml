@@ -5,19 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb0d6fca-ba00-41f7-98be-2432e7aa6996" name="Changes" comment="class 19">
-      <change afterPath="$PROJECT_DIR$/src/main/java/class20/Ambient-music-free.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class20/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class20/AnimalTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class20/E1Drawing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class20/E2AudioPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class20/E3TypesCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class20/E4PolyMor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class20/E5Selenium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class20/E5SeleniumProfessional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class20/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class20/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class20/E6CreatingFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class20/E7Final.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class20/Student1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/class20/E5SeleniumProfessional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/class20/E5SeleniumProfessional.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,61 +57,35 @@
       <recent name="review6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.E5SeleniumProfessional">
-    <configuration name="E2AudioPlayer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class20.E2AudioPlayer" />
-      <module name="JavaSdetBatch17" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class20.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="E3TypesCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class20.E3TypesCasting" />
-      <module name="JavaSdetBatch17" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class20.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="E4PolyMor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class20.E4PolyMor" />
-      <module name="JavaSdetBatch17" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class20.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="E5Selenium" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class20.E5Selenium" />
-      <module name="JavaSdetBatch17" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class20.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.E7Final">
     <configuration name="E5SeleniumProfessional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class20.E5SeleniumProfessional" />
+      <module name="JavaSdetBatch17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E6CreatingFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class20.E6CreatingFiles" />
+      <module name="JavaSdetBatch17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E7Final" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class20.E7Final" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
@@ -144,13 +110,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StudentTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class20.StudentTester" />
+      <module name="JavaSdetBatch17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTester1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class20.StudentTester1" />
+      <module name="JavaSdetBatch17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.E7Final" />
+        <item itemvalue="Application.StudentTester1" />
+        <item itemvalue="Application.StudentTester" />
+        <item itemvalue="Application.E6CreatingFiles" />
         <item itemvalue="Application.E5SeleniumProfessional" />
-        <item itemvalue="Application.E5Selenium" />
-        <item itemvalue="Application.E4PolyMor" />
-        <item itemvalue="Application.E3TypesCasting" />
-        <item itemvalue="Application.E2AudioPlayer" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +195,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694286205222</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="class 19">
+      <option name="closed" value="true" />
+      <created>1694367601417</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1694367601417</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -23,6 +23,7 @@ public class E5SeleniumProfessional {
             Thread.sleep(2000);
             d.navigate().back();
             d.close();
+            // Break till 2:01
 
         }
 
