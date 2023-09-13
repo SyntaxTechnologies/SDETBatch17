@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb0d6fca-ba00-41f7-98be-2432e7aa6996" name="Changes" comment="class 19">
-      <change afterPath="$PROJECT_DIR$/src/main/java/class5/StaticTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review8/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review8/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review8/E1LocalVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review8/E2InstanceVar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review8/E3StaticVar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review8/Notes" afterDir="false" />
+    <list default="true" id="fb0d6fca-ba00-41f7-98be-2432e7aa6996" name="Changes" comment="review">
+      <change afterPath="$PROJECT_DIR$/src/main/java/class21/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class21/AnimalTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class21/E1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class21/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class21/WebDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class21/WebDriverTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +59,20 @@
       <recent name="review6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Car">
+  <component name="RunManager" selected="Application.WebDriverTester">
+    <configuration name="AnimalTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class21.AnimalTester" />
+      <module name="JavaSdetBatch17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class21.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="review8.Car" />
       <module name="JavaSdetBatch17" />
@@ -74,34 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E6CreatingFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class20.E6CreatingFiles" />
-      <module name="JavaSdetBatch17" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class20.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="E7Final" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class20.E7Final" />
-      <module name="JavaSdetBatch17" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class20.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class20.StudentTester" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
@@ -126,13 +112,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WebDriverTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class21.WebDriverTester" />
+      <module name="JavaSdetBatch17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class21.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WebDriverTester" />
+        <item itemvalue="Application.AnimalTester" />
         <item itemvalue="Application.Car" />
         <item itemvalue="Application.E7Final" />
         <item itemvalue="Application.StudentTester1" />
-        <item itemvalue="Application.StudentTester" />
-        <item itemvalue="Application.E6CreatingFiles" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694372791283</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="review">
+      <option name="closed" value="true" />
+      <created>1694484494401</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1694484494401</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -219,7 +226,8 @@
     <MESSAGE value="class 16" />
     <MESSAGE value="class 17" />
     <MESSAGE value="class 19" />
-    <option name="LAST_COMMIT_MESSAGE" value="class 19" />
+    <MESSAGE value="review" />
+    <option name="LAST_COMMIT_MESSAGE" value="review" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
