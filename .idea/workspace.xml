@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb0d6fca-ba00-41f7-98be-2432e7aa6996" name="Changes" comment="Class21">
-      <change afterPath="$PROJECT_DIR$/src/main/java/class21/File.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class21/FileTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class22/E1Interfaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class22/MoveAble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class22/MoveAbleTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class22/Notes.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -55,7 +58,7 @@
       <recent name="review6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FileTester">
+  <component name="RunManager" selected="Application.MoveAbleTester">
     <configuration name="AnimalTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class21.AnimalTester" />
       <module name="JavaSdetBatch17" />
@@ -69,38 +72,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="review8.Car" />
-      <module name="JavaSdetBatch17" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="review8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="E7Final" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class20.E7Final" />
-      <module name="JavaSdetBatch17" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class20.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="FileTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class21.FileTester" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="class21.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoveAbleTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class22.MoveAbleTester" />
+      <module name="JavaSdetBatch17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class22.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class22.Test" />
+      <module name="JavaSdetBatch17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MoveAbleTester" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.FileTester" />
         <item itemvalue="Application.WebDriverTester" />
         <item itemvalue="Application.AnimalTester" />
-        <item itemvalue="Application.Car" />
-        <item itemvalue="Application.E7Final" />
       </list>
     </recent_temporary>
   </component>
