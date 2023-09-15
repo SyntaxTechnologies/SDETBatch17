@@ -5,12 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb0d6fca-ba00-41f7-98be-2432e7aa6996" name="Changes" comment="Class22">
-      <change afterPath="$PROJECT_DIR$/src/main/java/class22/ABSTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class22/BikeTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class22/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class22/WebDriverTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review9/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review9/AnimalTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review9/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review9/CalculatorTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review9/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review9/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review9/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review9/ParentTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review9/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review9/PrinterTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/class22/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/class22/Notes.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,14 +45,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Syntax/IdeaProjects/JavaSdetBatch17/src/main/java/class22"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Syntax/IdeaProjects/JavaSdetBatch17/src/main/java/class22&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Syntax\IdeaProjects\JavaSdetBatch17\src\main\java\class22" />
@@ -60,13 +66,13 @@
       <recent name="review6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.class22.WebDriverTester">
-    <configuration name="FileTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class21.FileTester" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="AnimalTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review9.AnimalTester" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class21.*" />
+          <option name="PATTERN" value="review9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoveAbleTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class22.MoveAbleTester" />
+    <configuration name="CalculatorTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review9.CalculatorTester" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class22.*" />
+          <option name="PATTERN" value="review9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class22.Test" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review9.Main" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class22.*" />
+          <option name="PATTERN" value="review9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WebDriverTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class21.WebDriverTester" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review9.Main" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class21.*" />
+          <option name="PATTERN" value="review9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="class22.WebDriverTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class22.WebDriverTester" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review9.Main" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class22.*" />
+          <option name="PATTERN" value="review9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.class22.WebDriverTester" />
-        <item itemvalue="Application.MoveAbleTester" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.FileTester" />
-        <item itemvalue="Application.WebDriverTester" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.AnimalTester" />
+        <item itemvalue="Application.CalculatorTester" />
       </list>
     </recent_temporary>
   </component>
