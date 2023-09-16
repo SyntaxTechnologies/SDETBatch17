@@ -4,18 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb0d6fca-ba00-41f7-98be-2432e7aa6996" name="Changes" comment="Class22">
-      <change afterPath="$PROJECT_DIR$/src/main/java/review9/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review9/AnimalTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review9/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review9/CalculatorTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review9/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review9/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review9/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review9/ParentTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review9/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review9/PrinterTester.java" afterDir="false" />
+    <list default="true" id="fb0d6fca-ba00-41f7-98be-2432e7aa6996" name="Changes" comment="Review 9">
+      <change afterPath="$PROJECT_DIR$/src/main/java/class23/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class23/BankAccountTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class23/E1CollectionsFramework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class23/E2ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class23/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class23/Registration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class23/RegistrationTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class23/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,13 +63,13 @@
       <recent name="review6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="AnimalTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="review9.AnimalTester" />
+  <component name="RunManager" selected="Application.E1CollectionsFramework">
+    <configuration name="BankAccountTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class23.BankAccountTester" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="review9.*" />
+          <option name="PATTERN" value="class23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,25 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="review9.CalculatorTester" />
+    <configuration name="E1CollectionsFramework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class23.E1CollectionsFramework" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="review9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="review9.Main" />
-      <module name="JavaSdetBatch17" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="review9.*" />
+          <option name="PATTERN" value="class23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,13 +116,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RegistrationTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class23.RegistrationTester" />
+      <module name="JavaSdetBatch17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.E1CollectionsFramework" />
+        <item itemvalue="Application.RegistrationTester" />
+        <item itemvalue="Application.BankAccountTester" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.AnimalTester" />
-        <item itemvalue="Application.CalculatorTester" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +228,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694651321597</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Review 9">
+      <option name="closed" value="true" />
+      <created>1694744080398</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1694744080398</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -252,7 +257,8 @@
     <MESSAGE value="review" />
     <MESSAGE value="Class21" />
     <MESSAGE value="Class22" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class22" />
+    <MESSAGE value="Review 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Review 9" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
