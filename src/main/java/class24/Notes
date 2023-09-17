@@ -1,0 +1,39 @@
+Collections Framework:
+    Its a collection of class and interfaces which help us build dynamic
+    programs which are capable of handling large amounts of data.
+Why should we learn about Collections Framework?
+    Arrays are not good and we need something that is dynamic and
+    more flexible For example.
+    1) They are fixed in size
+    2) No ready made methods we have to create our own.
+
+ArrayList:
+    Better version of Arrays. It is also index based. Its dynamic we don't
+    need to provide the size before hand and it contains a lot of methods
+    to manipulate the data inside it.
+Syntax:
+    For Arrays we used this syntax
+    DataType[] nameForArray= new Datatype [Size]
+    String [] arr=new String[5];
+    ArrayList<DataType> nameForArrayList=new ArrayList<>();
+    ArrayList<String> arrayList=new ArrayList<>();
+Methods From ArrayList:
+    Size()=> No Of elements.
+    add(Element)=> adds new element to the arrayList
+    get(Index)=> Returns the element on specified index.
+    remove(index) => removes the element on the specified index
+    remove(Element) => removes the element from the arrayList
+    indexOf(element) => Returns the index of the element.
+    Contains(Element) => returns true if element is present otherwise false
+
+
+
+
+
+
+
+
+
+
+
+
