@@ -25,6 +25,23 @@ Methods From ArrayList:
     remove(Element) => removes the element from the arrayList
     indexOf(element) => Returns the index of the element.
     Contains(Element) => returns true if element is present otherwise false
+Wrapper Classes:
+    They are special classes designed for primitive data types.
+    for Every primitive datatype we have a class these classes are called
+    wrapper classes.
+    byte=>Byte
+    short=>Short
+    int => Integer
+    long =>Long
+    float => Float
+    double=>Double
+    char=> Character
+    boolean => Boolean
+Why Wrapper Classes?
+    1)Because primitives are not supported by collections framework.
+    2) A class can have methods inside it which is not possible for a primitive.
+
+
 
 
 
