@@ -4,21 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb0d6fca-ba00-41f7-98be-2432e7aa6996" name="Changes" comment="Review 10">
-      <change afterPath="$PROJECT_DIR$/src/main/java/class25/E10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class25/E1ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class25/E1Sets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class25/E2ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class25/E3ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class25/E4ArrayListVsLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class25/E5ArrayListVsLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class25/E6LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class25/E7Sets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class25/E8Sets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class25/E9Set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class25/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class25/T1ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class25/T2ArrayList.java" afterDir="false" />
+    <list default="true" id="fb0d6fca-ba00-41f7-98be-2432e7aa6996" name="Changes" comment="Class 25">
+      <change afterPath="$PROJECT_DIR$/src/main/java/class25/T3Sets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class25/T4Sets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,35 +62,9 @@
       <recent name="review6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T2ArrayList">
+  <component name="RunManager" selected="Application.T4Sets">
     <configuration name="E10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class25.E10" />
-      <module name="JavaSdetBatch17" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class25.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="E7Sets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class25.E7Sets" />
-      <module name="JavaSdetBatch17" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class25.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="E8Sets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class25.E8Sets" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
@@ -140,13 +102,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="T3Sets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class25.T3Sets" />
+      <module name="JavaSdetBatch17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class25.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T4Sets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class25.T4Sets" />
+      <module name="JavaSdetBatch17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class25.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T4Sets" />
+        <item itemvalue="Application.T3Sets" />
         <item itemvalue="Application.T2ArrayList" />
         <item itemvalue="Application.E10" />
         <item itemvalue="Application.E9Set" />
-        <item itemvalue="Application.E8Sets" />
-        <item itemvalue="Application.E7Sets" />
       </list>
     </recent_temporary>
   </component>
@@ -287,7 +275,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695348220023</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Class 25">
+      <option name="closed" value="true" />
+      <created>1695494869064</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1695494869064</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -312,7 +308,8 @@
     <MESSAGE value="Class 22" />
     <MESSAGE value="Class 24" />
     <MESSAGE value="Review 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Review 10" />
+    <MESSAGE value="Class 25" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class 25" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
