@@ -4,14 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb0d6fca-ba00-41f7-98be-2432e7aa6996" name="Changes" comment="Class 24">
-      <change afterPath="$PROJECT_DIR$/src/main/java/review10/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review10/AnimalTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review10/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review10/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review10/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review10/Q5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review10/WashAble.java" afterDir="false" />
+    <list default="true" id="fb0d6fca-ba00-41f7-98be-2432e7aa6996" name="Changes" comment="Review 10">
+      <change afterPath="$PROJECT_DIR$/src/main/java/class25/E10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class25/E1ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class25/E1Sets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class25/E2ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class25/E3ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class25/E4ArrayListVsLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class25/E5ArrayListVsLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class25/E6LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class25/E7Sets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class25/E8Sets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class25/E9Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class25/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class25/T1ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class25/T2ArrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,17 +69,18 @@
       <recent name="C:\Users\Syntax\IdeaProjects\JavaSdetBatch17\src\main\java\class20" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="class25" />
       <recent name="class24" />
       <recent name="review6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q5">
-    <configuration name="AnimalTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="review10.AnimalTester" />
+  <component name="RunManager" selected="Application.T2ArrayList">
+    <configuration name="E10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class25.E10" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="review10.*" />
+          <option name="PATTERN" value="class25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class24.E6" />
+    <configuration name="E7Sets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class25.E7Sets" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class24.*" />
+          <option name="PATTERN" value="class25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="review10.Q5" />
+    <configuration name="E8Sets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class25.E8Sets" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="review10.*" />
+          <option name="PATTERN" value="class25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class24.T4" />
+    <configuration name="E9Set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class25.E9Set" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class24.*" />
+          <option name="PATTERN" value="class25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class24.T5" />
+    <configuration name="T2ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class25.T2ArrayList" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class24.*" />
+          <option name="PATTERN" value="class25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q5" />
-        <item itemvalue="Application.AnimalTester" />
-        <item itemvalue="Application.T5" />
-        <item itemvalue="Application.T4" />
-        <item itemvalue="Application.E6" />
+        <item itemvalue="Application.T2ArrayList" />
+        <item itemvalue="Application.E10" />
+        <item itemvalue="Application.E9Set" />
+        <item itemvalue="Application.E8Sets" />
+        <item itemvalue="Application.E7Sets" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +279,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694977319643</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Review 10">
+      <option name="closed" value="true" />
+      <created>1695348220023</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1695348220023</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -295,7 +311,8 @@
     <MESSAGE value="Review 9" />
     <MESSAGE value="Class 22" />
     <MESSAGE value="Class 24" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class 24" />
+    <MESSAGE value="Review 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Review 10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
