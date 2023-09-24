@@ -5,8 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb0d6fca-ba00-41f7-98be-2432e7aa6996" name="Changes" comment="Class 25">
-      <change afterPath="$PROJECT_DIR$/src/main/java/class25/T3Sets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class25/T4Sets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class26/E10Maps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class26/E1Maps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class26/E2Maps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class26/E3Maps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class26/E4Maps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class26/E5Maps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class26/E6Maps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class26/E7Maps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class26/E8Maps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class26/E9Maps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class26/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class26/T1Maps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class26/T2Maps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class26/T3Maps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +56,8 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Syntax/IdeaProjects/JavaSdetBatch17/src/main/java/class22&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -57,18 +70,19 @@
       <recent name="C:\Users\Syntax\IdeaProjects\JavaSdetBatch17\src\main\java\class20" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="class26" />
       <recent name="class25" />
       <recent name="class24" />
       <recent name="review6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T4Sets">
-    <configuration name="E10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class25.E10" />
+  <component name="RunManager" selected="Application.E10Maps">
+    <configuration name="E10Maps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class26.E10Maps" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class25.*" />
+          <option name="PATTERN" value="class26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E9Set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class25.E9Set" />
+    <configuration name="E6Maps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class26.E6Maps" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class25.*" />
+          <option name="PATTERN" value="class26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T2ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class25.T2ArrayList" />
+    <configuration name="E7Maps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class26.E7Maps" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class25.*" />
+          <option name="PATTERN" value="class26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T3Sets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class25.T3Sets" />
+    <configuration name="T2Maps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class26.T2Maps" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class25.*" />
+          <option name="PATTERN" value="class26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T4Sets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class25.T4Sets" />
+    <configuration name="T3Maps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class26.T3Maps" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class25.*" />
+          <option name="PATTERN" value="class26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.T4Sets" />
-        <item itemvalue="Application.T3Sets" />
-        <item itemvalue="Application.T2ArrayList" />
-        <item itemvalue="Application.E10" />
-        <item itemvalue="Application.E9Set" />
+        <item itemvalue="Application.E10Maps" />
+        <item itemvalue="Application.E6Maps" />
+        <item itemvalue="Application.E7Maps" />
+        <item itemvalue="Application.T3Maps" />
+        <item itemvalue="Application.T2Maps" />
       </list>
     </recent_temporary>
   </component>
