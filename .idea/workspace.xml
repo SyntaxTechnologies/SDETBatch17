@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb0d6fca-ba00-41f7-98be-2432e7aa6996" name="Changes" comment="Class 25">
-      <change afterPath="$PROJECT_DIR$/src/main/java/class26/E10Maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class26/E1Maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class26/E2Maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class26/E3Maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class26/E4Maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class26/E5Maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class26/E6Maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class26/E7Maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class26/E8Maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class26/E9Maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class26/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class26/T1Maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class26/T2Maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class26/T3Maps.java" afterDir="false" />
+    <list default="true" id="fb0d6fca-ba00-41f7-98be-2432e7aa6996" name="Changes" comment="Class 26">
+      <change afterPath="$PROJECT_DIR$/src/main/java/class26/E11Maps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,9 +63,22 @@
       <recent name="review6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.E10Maps">
+  <component name="RunManager" selected="Application.E11Maps">
     <configuration name="E10Maps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class26.E10Maps" />
+      <module name="JavaSdetBatch17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class26.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E11Maps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class26.E11Maps" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
@@ -116,19 +116,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T2Maps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class26.T2Maps" />
-      <module name="JavaSdetBatch17" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class26.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="T3Maps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class26.T3Maps" />
       <module name="JavaSdetBatch17" />
@@ -144,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.E11Maps" />
         <item itemvalue="Application.E10Maps" />
         <item itemvalue="Application.E6Maps" />
         <item itemvalue="Application.E7Maps" />
         <item itemvalue="Application.T3Maps" />
-        <item itemvalue="Application.T2Maps" />
       </list>
     </recent_temporary>
   </component>
@@ -297,7 +284,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695494869064</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Class 26">
+      <option name="closed" value="true" />
+      <created>1695580915751</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1695580915751</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -323,7 +318,8 @@
     <MESSAGE value="Class 24" />
     <MESSAGE value="Review 10" />
     <MESSAGE value="Class 25" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class 25" />
+    <MESSAGE value="Class 26" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class 26" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
