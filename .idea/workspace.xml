@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb0d6fca-ba00-41f7-98be-2432e7aa6996" name="Changes" comment="Class 26">
-      <change afterPath="$PROJECT_DIR$/src/main/java/class26/E11Maps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class26/Q6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +63,7 @@
       <recent name="review6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.E11Maps">
+  <component name="RunManager" selected="Application.Q6">
     <configuration name="E10Maps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class26.E10Maps" />
       <module name="JavaSdetBatch17" />
@@ -116,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T3Maps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class26.T3Maps" />
+    <configuration name="Q6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class26.Q6" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
@@ -131,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q6" />
         <item itemvalue="Application.E11Maps" />
         <item itemvalue="Application.E10Maps" />
         <item itemvalue="Application.E6Maps" />
         <item itemvalue="Application.E7Maps" />
-        <item itemvalue="Application.T3Maps" />
       </list>
     </recent_temporary>
   </component>
@@ -292,7 +292,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695580915751</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Class 26">
+      <option name="closed" value="true" />
+      <created>1695581902181</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1695581902181</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -339,6 +347,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/class24/T3.java</url>
           <line>12</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/class26/Q6.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
