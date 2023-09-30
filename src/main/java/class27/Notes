@@ -1,0 +1,45 @@
+File?
+ File is something that we use to store information.
+ For example:
+ 1)txt files are used to store raw text.
+ 2) pdf files are usually used to store books and articles.
+ 3) xlsx files are usually used to store information in the form of a table.
+ 4) .jpg .jpeg .png files are used to store images
+ 5) .mp4 .mkv .mov are used to store videos.
+Why we use files?
+    Its easier to move the information around because it just one single file.
+Folders/Directories:
+    Its like a container for files. it can contain many different files.
+    We use it to organize the information.
+
+
+File Handling:
+    File is process of creating/editing/accessing/deleting the
+    files on a computer with the
+    help of a programming language.
+
+
+Steps to work with file
+    1) To locate the file usually we use the absolute paths for that
+    for example "C:/users/syntax/desktop/batch17/names.txt"
+    2) We need to have access and a piece of software that can edit/open that file.
+    3) To bring files from permanent storage into the RAM.
+What is RAM?
+    Temporary storage its very Fast but very expensive and does not store data permanently
+    once we turn off the computer everything that we put in the RAM is gone.
+
+What is HDD/SSD/NVME/Storage:
+    Its the permanent storage that we use to store things its cheap but slow.
+Why should we learn about FileHandling?
+    1)So that we can store the data permanent.
+    2) We can store the sensitive data like userNames passwords etc inside the
+    files and keep them secure on our computers and don't push it with code on
+    github.
+    3) All the configuration related information like URLS and types of testing
+    will also be stored in the files.
+
+
+
+
+
+
