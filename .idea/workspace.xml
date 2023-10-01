@@ -4,18 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb0d6fca-ba00-41f7-98be-2432e7aa6996" name="Changes" comment="Class 26">
-      <change afterPath="$PROJECT_DIR$/Files/Config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Files/Employees.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class27/E1ConfigReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class27/E2ConfigProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class27/E3ConfigProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class27/E4ExcelFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class27/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/ConfigReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/Constants.java" afterDir="false" />
+    <list default="true" id="fb0d6fca-ba00-41f7-98be-2432e7aa6996" name="Changes" comment="Class 27">
+      <change afterPath="$PROJECT_DIR$/src/main/java/class28/E1ExcelFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class28/E2ListOfMaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class28/E3ExcelFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class28/ExcelReaderTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/ExcelReader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files/Employees.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Files/Employees.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/class27/E4ExcelFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/class27/E4ExcelFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/Constants.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,20 +65,20 @@
       <recent name="C:\Users\Syntax\IdeaProjects\JavaSdetBatch17\src\main\java\class20" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="class28" />
       <recent name="class27" />
       <recent name="class26" />
       <recent name="class25" />
       <recent name="class24" />
-      <recent name="review6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.E4ExcelFile">
-    <configuration name="E1ConfigReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class27.E1ConfigReader" />
+  <component name="RunManager" selected="Application.ExcelReaderTester">
+    <configuration name="E1ExcelFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class28.E1ExcelFile" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class27.*" />
+          <option name="PATTERN" value="class28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E2ConfigProperties" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class27.E2ConfigProperties" />
+    <configuration name="E2ListOfMaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class28.E2ListOfMaps" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class27.*" />
+          <option name="PATTERN" value="class28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E3ConfigProperties" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class27.E3ConfigProperties" />
+    <configuration name="E3ExcelFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class28.E3ExcelFile" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class27.*" />
+          <option name="PATTERN" value="class28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class26.Q6" />
+    <configuration name="ExcelReaderTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class28.ExcelReaderTester" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class26.*" />
+          <option name="PATTERN" value="class28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExcelReaderTester" />
+        <item itemvalue="Application.E3ExcelFile" />
+        <item itemvalue="Application.E2ListOfMaps" />
+        <item itemvalue="Application.E1ExcelFile" />
         <item itemvalue="Application.E4ExcelFile" />
-        <item itemvalue="Application.E3ConfigProperties" />
-        <item itemvalue="Application.E2ConfigProperties" />
-        <item itemvalue="Application.E1ConfigReader" />
-        <item itemvalue="Application.Q6" />
       </list>
     </recent_temporary>
   </component>
@@ -319,7 +317,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695582859313</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Class 27">
+      <option name="closed" value="true" />
+      <created>1696100773675</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1696100773675</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -346,7 +352,8 @@
     <MESSAGE value="Review 10" />
     <MESSAGE value="Class 25" />
     <MESSAGE value="Class 26" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class 26" />
+    <MESSAGE value="Class 27" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class 27" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -371,6 +378,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/class26/Q6.java</url>
           <line>20</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/class28/E3ExcelFile.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/class27/E1ConfigReader.java</url>
