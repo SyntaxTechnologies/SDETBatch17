@@ -9,7 +9,7 @@ import java.util.Map;
 public class ExcelReaderTester {
     public static void main(String[] args) throws IOException {
 
-      List<Map<String,String>> data= ExcelReader.readExcelData("C:\\Users\\Syntax\\IdeaProjects\\JavaSdetBatch17\\Files\\Employees.xlsx","empData");
-      System.out.println(data.get(1));
+      List<Map<String,String>> data= ExcelReader.readExcelData("C:\\Users\\Syntax\\IdeaProjects\\JavaSdetBatch17\\Files\\Sales.xlsx");
+      System.out.println(data);
     }
 }
