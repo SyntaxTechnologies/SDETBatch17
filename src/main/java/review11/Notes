@@ -1,0 +1,45 @@
+Collections Framework:
+    Collections Framework is a set of classes and interfaces in java that
+    we use to store large amounts of data easily. There are many
+    classes containing many useful methods to manipulate the data.
+    These Data Structures are dynamic.
+Why we should be learning CF?
+    1)Not fixed in size like arrays.
+    2) They have ready made methods which we can just use.
+Any DownSides?
+    Yes
+    1)They are slower than arrays
+    2) As they only work with non-primitives they occupy more memory.
+Wrapper Classes:
+    Objects that allow us to work with primitive data types in collections.
+    For every primitive datatype java developers created a Class os that we can
+    store the primitive data in collections framework. They also have a way of
+    converting a primitive to an equivalent wrapper its called boxing and when
+    we do the reverse its called unboxing.
+Some of the main classes in collections framework:
+Lists
+1)They maintain the insertion order.
+2)They can store duplicate data as well.
+1)ArrayList implements List
+2)LinkedList implements List
+=================================================
+remove() -> only removes one element
+removeIf() removes all of the elements which meets the condition.
+removeAll removes a complete list of the elements
+set() -> replaces only one element
+replaceAll -> all the elements which meets a specific condition will be replaced
+Sets:
+    They don't allow duplicate data.
+HashSet
+    UpSide: Fastest
+    DownSide: Insertion order is not maintained.
+
+LinkedHashSet
+Upside: maintains the insertion order
+DownSide: Its a little slow as compared to the HashSet
+
+TreeSet:
+    Upside: Keeps the data sorted
+    Insertion speed is super slow.
+    Searching is fastest.
+

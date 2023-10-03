@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb0d6fca-ba00-41f7-98be-2432e7aa6996" name="Changes" comment="Class 28">
-      <change afterPath="$PROJECT_DIR$/Files/Sales.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class28/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review11/E1WrapperClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review11/E2ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review11/E3ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review11/E4ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review11/E5ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review11/E6ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review11/E7ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review11/E8ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review11/Notes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/class28/ExcelReaderTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/class28/ExcelReaderTester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,18 +43,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Syntax/IdeaProjects/JavaSdetBatch17/Files",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Syntax/IdeaProjects/JavaSdetBatch17/Files&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Syntax\IdeaProjects\JavaSdetBatch17\Files" />
@@ -61,20 +67,20 @@
       <recent name="C:\Users\Syntax\IdeaProjects\JavaSdetBatch17\src\main\java\class20" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="review11" />
       <recent name="class28" />
       <recent name="class27" />
       <recent name="class26" />
       <recent name="class25" />
-      <recent name="class24" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExcelReaderTester">
-    <configuration name="E1ExcelFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class28.E1ExcelFile" />
+  <component name="RunManager" selected="Application.E7ArrayList">
+    <configuration name="E3ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review11.E3ArrayList" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class28.*" />
+          <option name="PATTERN" value="review11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E2ListOfMaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class28.E2ListOfMaps" />
+    <configuration name="E4ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review11.E4ArrayList" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class28.*" />
+          <option name="PATTERN" value="review11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E3ExcelFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class28.E3ExcelFile" />
+    <configuration name="E5ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review11.E5ArrayList" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class28.*" />
+          <option name="PATTERN" value="review11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E4ExcelFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class27.E4ExcelFile" />
+    <configuration name="E6ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review11.E6ArrayList" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class27.*" />
+          <option name="PATTERN" value="review11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExcelReaderTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class28.ExcelReaderTester" />
+    <configuration name="E7ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review11.E7ArrayList" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class28.*" />
+          <option name="PATTERN" value="review11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExcelReaderTester" />
-        <item itemvalue="Application.E3ExcelFile" />
-        <item itemvalue="Application.E2ListOfMaps" />
-        <item itemvalue="Application.E1ExcelFile" />
-        <item itemvalue="Application.E4ExcelFile" />
+        <item itemvalue="Application.E7ArrayList" />
+        <item itemvalue="Application.E6ArrayList" />
+        <item itemvalue="Application.E5ArrayList" />
+        <item itemvalue="Application.E4ArrayList" />
+        <item itemvalue="Application.E3ArrayList" />
       </list>
     </recent_temporary>
   </component>
@@ -329,7 +335,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696185147327</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Class 28">
+      <option name="closed" value="true" />
+      <created>1696186299556</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1696186299556</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
