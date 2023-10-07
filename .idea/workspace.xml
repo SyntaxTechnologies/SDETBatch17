@@ -4,16 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb0d6fca-ba00-41f7-98be-2432e7aa6996" name="Changes" comment="Class 28">
-      <change afterPath="$PROJECT_DIR$/src/main/java/review11/E1WrapperClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review11/E2ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review11/E3ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review11/E4ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review11/E5ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review11/E6ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review11/E7ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review11/E8ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review11/Notes" afterDir="false" />
+    <list default="true" id="fb0d6fca-ba00-41f7-98be-2432e7aa6996" name="Changes" comment="Review 11">
+      <change afterPath="$PROJECT_DIR$/src/main/java/class29/E10Exceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class29/E11Exceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class29/E1Exceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class29/E2Exceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class29/E3Exceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class29/E4Exceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class29/E5Exceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class29/E6Exceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class29/E7Exceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class29/E8Exceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class29/E9Exceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class29/Notes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,20 +70,20 @@
       <recent name="C:\Users\Syntax\IdeaProjects\JavaSdetBatch17\src\main\java\class20" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="class29" />
       <recent name="review11" />
       <recent name="class28" />
       <recent name="class27" />
       <recent name="class26" />
-      <recent name="class25" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.E7ArrayList">
-    <configuration name="E3ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="review11.E3ArrayList" />
+  <component name="RunManager" selected="Application.E11Exceptions">
+    <configuration name="E10Exceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class29.E10Exceptions" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="review11.*" />
+          <option name="PATTERN" value="class29.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E4ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="review11.E4ArrayList" />
+    <configuration name="E11Exceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class29.E11Exceptions" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="review11.*" />
+          <option name="PATTERN" value="class29.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E5ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="review11.E5ArrayList" />
+    <configuration name="E5Exceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class29.E5Exceptions" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="review11.*" />
+          <option name="PATTERN" value="class29.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E6ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="review11.E6ArrayList" />
+    <configuration name="E6Exceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class29.E6Exceptions" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="review11.*" />
+          <option name="PATTERN" value="class29.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E7ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="review11.E7ArrayList" />
+    <configuration name="E7Exceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class29.E7Exceptions" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="review11.*" />
+          <option name="PATTERN" value="class29.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.E7ArrayList" />
-        <item itemvalue="Application.E6ArrayList" />
-        <item itemvalue="Application.E5ArrayList" />
-        <item itemvalue="Application.E4ArrayList" />
-        <item itemvalue="Application.E3ArrayList" />
+        <item itemvalue="Application.E11Exceptions" />
+        <item itemvalue="Application.E10Exceptions" />
+        <item itemvalue="Application.E7Exceptions" />
+        <item itemvalue="Application.E6Exceptions" />
+        <item itemvalue="Application.E5Exceptions" />
       </list>
     </recent_temporary>
   </component>
@@ -343,7 +346,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696186299556</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Review 11">
+      <option name="closed" value="true" />
+      <created>1696298671145</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1696298671145</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -372,7 +383,8 @@
     <MESSAGE value="Class 26" />
     <MESSAGE value="Class 27" />
     <MESSAGE value="Class 28" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class 28" />
+    <MESSAGE value="Review 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Review 11" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -412,6 +424,10 @@
           </properties>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NegativeArraySizeException" package="java.lang" />
+          <option name="timeStamp" value="9" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
