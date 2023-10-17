@@ -4,18 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb0d6fca-ba00-41f7-98be-2432e7aa6996" name="Changes" comment="Class 29">
-      <change afterPath="$PROJECT_DIR$/src/main/java/review12/E1ArrayListVsLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review12/E2Sets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review12/E3Maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review12/E4Maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review12/E5Maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review12/E6Maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review12/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review12/MethodTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review12/Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/review12/Notes" afterDir="false" />
+    <list default="true" id="fb0d6fca-ba00-41f7-98be-2432e7aa6996" name="Changes" comment="Class review 12">
+      <change afterPath="$PROJECT_DIR$/src/main/java/review13/E1File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review13/E2Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review13/Notes.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files/Config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Files/Config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/review12/MethodTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/review12/MethodTester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,13 +70,13 @@
       <recent name="class27" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MethodTester">
-    <configuration name="E3Maps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="review12.E3Maps" />
+  <component name="RunManager" selected="Application.E2Config">
+    <configuration name="E1File" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review13.E1File" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="review12.*" />
+          <option name="PATTERN" value="review13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E4Maps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="review12.E4Maps" />
+    <configuration name="E2Config" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review13.E2Config" />
       <module name="JavaSdetBatch17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="review12.*" />
+          <option name="PATTERN" value="review13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.E2Config" />
+        <item itemvalue="Application.E1File" />
         <item itemvalue="Application.MethodTester" />
         <item itemvalue="Application.E6Maps" />
         <item itemvalue="Application.E5Maps" />
-        <item itemvalue="Application.E4Maps" />
-        <item itemvalue="Application.E3Maps" />
       </list>
     </recent_temporary>
   </component>
@@ -360,7 +355,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696705063188</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Class review 12">
+      <option name="closed" value="true" />
+      <created>1696903315636</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1696903315636</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -391,7 +394,8 @@
     <MESSAGE value="Class 28" />
     <MESSAGE value="Review 11" />
     <MESSAGE value="Class 29" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class 29" />
+    <MESSAGE value="Class review 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class review 12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

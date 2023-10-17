@@ -7,7 +7,7 @@ public class MethodTester {
       int sum= Methods.add(10,10);
         Scanner scanner=new Scanner(System.in);
        int num= scanner.nextInt();
-       if()
+  
 
     }
 }
